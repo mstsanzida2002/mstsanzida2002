@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I am a passionate CSE student with interests in software development, machine learning, networking, and computer graphics. I have experience in MERN stack development, database systems, OpenGL projects, and C#/C++ programming. I enjoy problem-solving, learning new technologies, and working on innovative projects, with a long-term goal of contributing to the tech industry and building my own IT company.
+<br><br>I am a passionate CSE student with interests in software development, machine learning, networking, and computer graphics. I have experience in MERN stack development, database systems, OpenGL projects, python, AI/ML environment and C#/C++ programming. I enjoy problem-solving, learning new technologies, and working on innovative projects, with a long-term goal of contributing to the tech industry and building my own IT company.
 
 
 
